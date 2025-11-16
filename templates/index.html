@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BroBuild Auto-Builder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container" style="max-width: 520px;"> <h1>BroBuild Auto‑Builder ⚙️</h1>
+        <p class="subtitle">Drop your budget, tell me the vibe, I'll cook a build.</p>
+
+        <form action="/build" method="POST">
+            <div>
+                <label for="budget">Your Budget (IDR)</label>
+                <input type="number" id="budget" name="budget" placeholder="e.g. 15000000" required>
+            </div>
+
+            <div>
+                <label for="purpose">Primary Purpose</label>
+                <select id="purpose" name="purpose">
+                    <option value="gaming">Gaming</option>
+                    <option value="workstation">Workstation (Editing / Coding)</option>
+                </select>
+            </div>
+
+            <button type="submit">Build My PC</button>
+        </form>
+
+        <div class="divider"></div>
+
+        <p style="text-align:center; font-size:1.1rem; margin-bottom:4px;">...or build it manually</p>
+        <a class="manual-link" href="/manual">Manual Builder →</a>
+    </div>
+
+</body>
+</html>

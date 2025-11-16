@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select a {{ part_type.upper() }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>Select a {{ part_type.upper() }}</h1>
+
+    <div class="search-bar">
+        <form action="" method="GET">
+            <input type="text" name="q" placeholder="Search for..." value="{{ keyword or '' }}">
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <div class="part-list">
+        {% for part in parts %}
+            <div class="part-item">
+                {% set name = part.name %}
+                
+                <div> {% if part_type == 'gpu' %}
+                        {% set chipset = part.get('chipset', '') %}
+                        {% set vram = part.get('Memory - Memory Size') %}
+                        <span class="gpu-spec">
+                            {% if chipset %}({{ chipset }}){% endif %}
+                            {% if vram %}- {{ vram }} GB VRAM{% endif %}
+                        </span>
+                        {% if chipset and chipset not in name %}
+                            {% set name = name + ' (' + chipset + ')' %}
+                        {% endif %}
+                        {% if vram and vram|string not in name %}
+                            {% set name = name + ' - ' + vram|string + ' GB' %}
+                        {% endif %}
+
+                    {% elif part_type == 'psu' %}
+                        {% set wattage = part.get('wattage') %}
+                        {% if wattage and 'W' not in name|upper %}
+                            {% set name = name + ' - ' + wattage|string + 'W' %}
+                        {% endif %}
+                    {% endif %}
+                    <strong>{{ name }}</strong>
+                    <span class="price">Rp {{ part.price|commas }}</span>
+                </div>
+                
+                <form action="/manual/select" method="POST" style="margin: 0; gap: 0;"> <input type="hidden" name="part_type" value="{{ part_type }}">
+                    <input type="hidden" name="part_name" value="{{ part.name }}">
+                    <button type="submit">Select</button>
+                </form>
+            </div>
+        {% else %}
+            <p style="text-align: center; color: var(--text-muted); padding: 20px;">
+                No parts found matching your search and constraints.
+            </p>
+        {% endfor %}
+    </div>
+    
+    <br>
+    <a href="/manual" class="manual-link" style="font-size: 1rem;">Back to Build</a>
+</div>
+
+</body>
+</html>

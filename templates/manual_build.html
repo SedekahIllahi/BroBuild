@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manual Builder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Build Your Rig</h1>
+    <p class="subtitle" style="margin-bottom: 0;">Add parts to your build. We'll check compatibility as you go.</p>
+    
+    {% if warnings %}
+        <div class="warnings">
+            <h3>⚠️ Build Warnings:</h3>
+            <ul>
+                {% for w in warnings %}
+                    <li>{{ w }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+
+    <div class="add-links">
+        <a href="/manual/add/cpu">{% if build.parts.cpu %}Change{% else %}Add{% endif %} CPU</a>
+        <a href="/manual/add/motherboard">{% if build.parts.motherboard %}Change{% else %}Add{% endif %} Motherboard</a>
+        <a href="/manual/add/gpu">{% if build.parts.gpu %}Change{% else %}Add{% endif %} GPU</a>
+        <a href="/manual/add/ram">{% if build.parts.ram %}Change{% else %}Add{% endif %} RAM</a>
+        <a href="/manual/add/psu">{% if build.parts.psu %}Change{% else %}Add{% endif %} PSU</a>
+        <a href="/manual/add/case">{% if build.parts.case %}Change{% else %}Add{% endif %} Case</a>
+    </div>
+
+    <div class="build">
+        {% for part_type, part in build.parts.items() %}
+            {% if part %}
+                {% set item = part %}
+                <div class="build-item">
+                    <strong>{{ part_type.upper() }}</strong>
+                    <span>
+                        {% set name = item.name %}
+                        
+                        {% if part_type == 'gpu' %}
+                            {% set chipset = item.get('chipset', '') %}
+                            {% set vram = item.get('Memory - Memory Size') %}
+                            
+                            {% if chipset and chipset not in name %}
+                                {% set name = name + ' (' + chipset + ')' %}
+                            {% endif %}
+                            {% if vram and vram|string not in name %}
+                                {% set name = name + ' - ' + vram|string + ' GB' %}
+                            {% endif %}
+                        
+                        {% elif part_type == 'psu' %}
+                            {% set wattage = item.get('wattage') %}
+                            {% if wattage and 'W' not in name|upper %}
+                                {% set name = name + ' - ' + wattage|string + 'W' %}
+                            {% endif %}
+                        {% endif %}
+                        
+                        {{ name }}
+                        <strong>Rp {{ item.price|commas }}</strong>
+                    </span>
+                </div>
+            {% else %}
+                <div class="build-item">
+                    <strong>{{ part_type.upper() }}</strong>
+                    <span>---</span>
+                </div>
+            {% endif %}
+        {% endfor %}
+        
+        <div class="build-total">
+            <span>TOTAL</span>
+            <span>Rp {{ build.total_price|commas }}</span>
+        </div>
+    </div>
+    
+    <div style="display: flex; justify-content: space-between; margin-top: 24px;">
+        <a href="/manual/clear" style="color: var(--warn-text);">Start Over</a>
+        <a href="/">Back to Homepage</a>
+    </div>
+</div>
+
+</body>
+</html>

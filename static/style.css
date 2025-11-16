@@ -1,0 +1,332 @@
+/* static/style.css */
+:root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --card-light: #0f141a;
+    --border: #2a2f35;
+    --accent: #00aaff;
+    --accent-hover: #0080cc;
+    --text-main: #e6edf3;
+    --text-muted: #9ba3b4;
+    --text-price: #48d689;
+    --warn-bg: #2a1a1a;
+    --warn-border: #a03030;
+    --warn-text: #ffb0b0;
+    --radius: 18px;
+    --radius-sm: 10px;
+    --shadow: 0 8px 28px rgba(0,0,0,0.35);
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    padding: 40px 20px;
+    font-family: "Inter", sans-serif;
+    background: var(--bg);
+    color: var(--text-main);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Changed from 'center' to 'flex-start' for long pages */
+    min-height: 100vh;
+}
+
+h1, h2, h3 {
+    margin: 0 0 10px;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+p.subtitle {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+    color: var(--text-muted);
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background: var(--border);
+    margin: 24px 0;
+}
+
+/* === Main Layout Card === */
+.container {
+    background: var(--card);
+    width: 100%;
+    max-width: 720px; /* Made it a bit wider for build lists */
+    padding: 32px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* === Forms & Buttons === */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+label {
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+input[type="number"],
+input[type="text"],
+select {
+    width: 100%;
+    padding: 14px;
+    border-radius: var(--radius);
+    border: 2px solid var(--border);
+    background: var(--card-light);
+    color: var(--text-main);
+    font-size: 1rem;
+    transition: 0.2s ease;
+}
+
+input:focus, select:focus {
+    border-color: var(--accent);
+    outline: none;
+    box-shadow: 0 0 8px rgba(0,170,255,0.5);
+}
+
+button,
+.button { /* Generic button class */
+    padding: 15px;
+    font-size: 1.1rem;
+    border-radius: var(--radius);
+    border: none;
+    font-weight: 700;
+    cursor: pointer;
+    background: var(--accent);
+    color: white;
+    transition: 0.2s ease;
+    box-shadow: 0 4px 14px rgba(0,170,255,0.4);
+    text-decoration: none;
+    text-align: center;
+}
+
+button:hover,
+.button:hover {
+    background: var(--accent-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0,170,255,0.55);
+}
+
+/* === Links === */
+a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: 0.2s ease;
+}
+a:hover {
+    color: var(--accent-hover);
+}
+
+.divider {
+    margin: 32px 0 20px;
+    height: 1px;
+    background: var(--border);
+    border-radius: 10px;
+}
+
+.manual-link {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-top: 10px;
+    transition: 0.2s ease;
+}
+
+.manual-link:hover {
+    color: var(--accent-hover);
+    transform: translateY(-1px);
+}
+
+/* === Build List / Receipt Styles === */
+.build {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin: 2rem 0;
+    background: var(--card-light);
+}
+
+.build-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    gap: 1rem;
+}
+.build-item:last-child {
+    border-bottom: none;
+}
+
+.build-item strong:first-child { /* The "CPU", "GPU" tag */
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    background-color: var(--border);
+    padding: 0.25rem 0.5rem;
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+}
+
+.build-item span {
+    text-align: right;
+    color: var(--text-main);
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+.build-item span strong { /* The price */
+    color: var(--text-price);
+    font-size: 1rem;
+    display: block;
+    margin-top: 2px;
+}
+
+.build-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25rem 1.5rem;
+    background: var(--card-light);
+    color: var(--text-main);
+    font-size: 1.25rem;
+    font-weight: bold;
+    border-top: 1px solid var(--border);
+}
+.build-total span:last-child {
+    color: var(--text-price);
+    font-size: 1.3rem;
+}
+
+/* === Warnings === */
+.warnings {
+    color: var(--warn-text);
+    background: var(--warn-bg);
+    border: 1px solid var(--warn-border);
+    padding: 1.5rem;
+    border-radius: var(--radius);
+    margin: 2rem 0;
+    text-align: left;
+}
+.warnings h3 {
+    margin-top: 0;
+    color: var(--warn-text);
+}
+.warnings ul {
+    padding-left: 20px;
+    margin-bottom: 0;
+    line-height: 1.6;
+}
+
+/* === Part Selector Page Styles === */
+.search-bar {
+    padding: 20px;
+    background: var(--card-light);
+    border-radius: var(--radius);
+    margin-bottom: 24px;
+}
+.search-bar form {
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+.search-bar input {
+    flex-grow: 1;
+}
+.search-bar button {
+    padding: 14px 20px;
+    font-size: 1rem;
+}
+
+.part-item {
+    border-bottom: 1px solid var(--border);
+    padding: 16px 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.part-item:last-child {
+    border-bottom: none;
+}
+.part-item div { /* Wrapper for name/price */
+    flex-grow: 1;
+}
+.part-item strong {
+    font-size: 1.1rem;
+    color: var(--text-main);
+}
+.part-item .price {
+    color: var(--text-price);
+    font-weight: 600;
+    display: block;
+    margin-top: 4px;
+}
+.gpu-spec {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-left: 2px;
+    display: block;
+}
+.part-item form {
+    flex-direction: row;
+    margin: 0;
+    gap: 0;
+}
+.part-item button {
+    padding: 10px 16px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    background: var(--border);
+    color: var(--text-main);
+    box-shadow: none;
+}
+.part-item button:hover {
+    background: var(--accent);
+    color: white;
+    transform: none;
+    box-shadow: none;
+}
+
+/* === Manual Build Page Styles === */
+.add-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin: 24px 0;
+}
+.add-links a {
+    text-decoration: none;
+    text-align: center;
+    padding: 16px;
+    font-weight: 600;
+    border-radius: var(--radius);
+    background: var(--card-light);
+    color: var(--text-main);
+    border: 1px solid var(--border);
+}
+.add-links a:hover {
+    background: var(--border);
+    color: var(--accent);
+    border-color: var(--accent);
+}

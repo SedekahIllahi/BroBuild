@@ -1,0 +1,6516 @@
+[
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 217240000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 20000,
+        "price_per_gb": 0.65,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": 20060000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 44000,
+        "price_per_gb": 0.027,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital WD_BLACK P10",
+        "price": 1960000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.023,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 5320000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 24000,
+        "price_per_gb": 0.013,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 1010000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.06,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T9 Portable",
+        "price": 5020000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.075,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Corsair EX400U",
+        "price": 5350000,
+        "type": "Portable",
+        "interface": "USB Type-C 4.0 Gen 3x2",
+        "capacity": 4000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1870000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.028,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T5 EVO Portable",
+        "price": 8860000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.066,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 2700000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.02,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Portable Drive",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.04,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 4680000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 20000,
+        "price_per_gb": 0.014,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": 11370000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 24000,
+        "price_per_gb": 0.028,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 16930000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 20000,
+        "price_per_gb": 0.051,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 3350000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 14000,
+        "price_per_gb": 0.014,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": 16720000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 36000,
+        "price_per_gb": 0.028,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk Extreme Portable V2",
+        "price": 1760000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.105,
+        "color": "Black / Orange",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 18090000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 22000,
+        "price_per_gb": 0.049,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Corsair EX400U",
+        "price": 3010000,
+        "type": "Portable",
+        "interface": "USB Type-C 4.0 Gen 3x2",
+        "capacity": 2000,
+        "price_per_gb": 0.09,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 1510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.09,
+        "color": "Black / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Verbatim Vx460",
+        "price": 630000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": 0.292,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Slim",
+        "price": 990000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.059,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 2180000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.065,
+        "color": "Black / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": 1760000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.026,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Shield",
+        "price": 4850000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": 0.072,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital WD_BLACK D10",
+        "price": 3180000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 8000,
+        "price_per_gb": 0.024,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10",
+        "price": 7360000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 3350000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.05,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10 Pro",
+        "price": 4270000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.064,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1010000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.06,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk Extreme Portable V2",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.075,
+        "color": "Black / Orange",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1160000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.035,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital WD_BLACK P10",
+        "price": 2250000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.034,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T9 Portable",
+        "price": 3180000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.095,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 3350000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 14000,
+        "price_per_gb": null,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10",
+        "price": 5350000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 18000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate Portable Drive",
+        "price": 2170000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.026,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 4850000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 14000,
+        "price_per_gb": 0.021,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Shield",
+        "price": 2680000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2070000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.025,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Basics 3.0",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": null,
+        "capacity": 2000,
+        "price_per_gb": 0.04,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Portable Drive",
+        "price": 1010000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.06,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital WD_BLACK P10",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.055,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X6",
+        "price": 1260000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.075,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T5 EVO Portable",
+        "price": 3850000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.057,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk Extreme Portable V2",
+        "price": 4680000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.07,
+        "color": "Black / Orange",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 3680000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 10000,
+        "price_per_gb": 0.022,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital WD_BLACK P50",
+        "price": 5000000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.299,
+        "color": "Black / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 18980000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.284,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 4770000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": 0.024,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 83550000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": 0.312,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Corsair EX100U",
+        "price": 3930000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.059,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": 7860000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": 0.029,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Portable Drive",
+        "price": 2010000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.03,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 3010000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.022,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 5850000,
+        "type": "Desktop",
+        "interface": "USB Type-A",
+        "capacity": 20000,
+        "price_per_gb": 0.017,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2090000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.031,
+        "color": "White",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn NVX",
+        "price": 10510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.314,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T5",
+        "price": 4020000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.24,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X9",
+        "price": 3850000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": 0.057,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 3170000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.024,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": 9860000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 20000,
+        "price_per_gb": 0.029,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": 1990000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.024,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP M200",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital \u200eWDBU6Y0050BBK-WESN",
+        "price": 1970000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.023,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Corsair EX100U",
+        "price": 2050000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.061,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": 13210000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 28000,
+        "price_per_gb": 0.028,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "MSI DATAMAG",
+        "price": 2340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.07,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T9 Portable",
+        "price": 2180000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.13,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Basics",
+        "price": 1830000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.109,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 3600000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.027,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 46780000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.35,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 2120000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.032,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Game Drive Xbox GamePass Edition",
+        "price": 3830000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.057,
+        "color": "White",
+        "currency": "IDR"
+    },
+    {
+        "name": "Kingston XS1000",
+        "price": 2180000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.065,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP PD1000",
+        "price": 1170000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "color": "Teal",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1260000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.037,
+        "color": "White",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power Bolt B75 Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate STEB6000403",
+        "price": 3760000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": 0.037,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Crucial X6",
+        "price": 2220000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.066,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP PD1000",
+        "price": 890000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": 0.103,
+        "color": "Teal",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2090000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.031,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Essential",
+        "price": 2530000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.151,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Crucial X9",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X9 Pro",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 4000000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": 0.02,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 3420000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 10000,
+        "price_per_gb": 0.02,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Shield",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.11,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital Elements Portable",
+        "price": 1920000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.029,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "ADATA DashDrive Durable HD650",
+        "price": 1210000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.072,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital WD_BLACK D10",
+        "price": 4680000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 12000,
+        "price_per_gb": 0.023,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Corsair EX100U",
+        "price": 1590000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.095,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 6520000,
+        "type": "Desktop",
+        "interface": "USB Type-A",
+        "capacity": 22000,
+        "price_per_gb": 0.018,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book Studio",
+        "price": 4340000,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 2.0",
+        "capacity": 2000,
+        "price_per_gb": 0.13,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X6",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": 0.3,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 20040000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 18000,
+        "price_per_gb": 0.067,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket XTRM-Q",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 16000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 3230000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.193,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Barracuda Fast",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Asus FX HDD",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Crucial X9 Pro",
+        "price": 2180000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.065,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP PD1000",
+        "price": 1890000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.056,
+        "color": "Teal",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 4680000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 18000,
+        "price_per_gb": 0.016,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 5190000,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0, USB Type-A 3.2 Gen 1",
+        "capacity": 18000,
+        "price_per_gb": 0.017,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 2850000,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0, USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.021,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 2180000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.26,
+        "color": "Black / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 21380000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 22000,
+        "price_per_gb": 0.058,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 5690000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": null,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 5520000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 10000,
+        "price_per_gb": 0.033,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 3930000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.059,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 3850000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.115,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 82710000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": 0.309,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2340000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.028,
+        "color": "White",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 3350000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.04,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Basics 3.0",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2260000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.027,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP PD20M Mag",
+        "price": 1130000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.067,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Shield",
+        "price": 2660000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.08,
+        "color": "Beige",
+        "currency": "IDR"
+    },
+    {
+        "name": "Corsair EX400U",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-C 4.0 Gen 3x2",
+        "capacity": 1000,
+        "price_per_gb": 0.11,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power Bolt B75 Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 2680000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": 0.027,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 2850000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": 0.028,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 3830000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.029,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk SDSSDT40-8T00-NA25",
+        "price": 9530000,
+        "type": "Desktop",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 8000,
+        "price_per_gb": 0.071,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 6000000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": 0.022,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Kingston XS2000",
+        "price": 1760000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.105,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T5",
+        "price": 2950000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.353,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 2310000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": 0.023,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": 4150000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.031,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Samsung T7 Shield",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.11,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 5020000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.15,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2090000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.031,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T5",
+        "price": 4350000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.13,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport Ultra Portable",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.075,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 24000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 6360000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": null,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 5170000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 14000,
+        "price_per_gb": 0.022,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 10000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "G-Technology G-DRIVE",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, eSATA 6.0 Gb/s, USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 3410000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": 0.068,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Desk",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": 4020000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": 0.04,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress",
+        "price": 43900000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.328,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Barracuda Fast",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 2410000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.029,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1260000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.037,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1170000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "color": "White",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Crucial X9",
+        "price": 2010000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.06,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "MSI DATAMAG",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X9 Pro",
+        "price": 4370000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": 0.065,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 4040000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 12000,
+        "price_per_gb": 0.02,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Kingston XS2000",
+        "price": 1240000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 500,
+        "price_per_gb": 0.148,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T5 EVO Portable",
+        "price": 2930000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.087,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10",
+        "price": 4020000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.06,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 1010000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": 0.12,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 2310000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.069,
+        "color": "Blue / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": 3100000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": 0.062,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10",
+        "price": 2600000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.077,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10",
+        "price": 1680000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.1,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Kingston XS2000",
+        "price": 4850000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.072,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10 Pro",
+        "price": 2760000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.082,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 1680000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.1,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Slim",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Silicon Power Bolt B75 Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate Backup Plus Hub",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn ASSD-3PL256-120F",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0",
+        "capacity": 120,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Desk",
+        "price": 3830000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": 0.076,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2 Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, eSATA 3.0 Gb/s, USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Sabrent Rocket XTRM-Q",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Red / Silver"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2850000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.042,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Asus FX HDD",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": 1260000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.15,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "LaCie Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Kingston XS1000",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP PD20 Eco Mini",
+        "price": 1220000,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 1000,
+        "price_per_gb": 0.073,
+        "color": "White / Green",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power Bolt B75 Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "TEAMGROUP PD20 Eco Mini",
+        "price": 2030000,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 2000,
+        "price_per_gb": 0.06,
+        "color": "White / Green",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Shield",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.11,
+        "color": "Beige",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 2340000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.028,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "KIOXIA EXCERIA PLUS",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Gray"
+    },
+    {
+        "name": "KIOXIA EXCERIA PLUS",
+        "price": 3590000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.107,
+        "color": "Gray",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Shield",
+        "price": 2680000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.08,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar ARMOR 700",
+        "price": 4600000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.069,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "LaCie Rugged Mini",
+        "price": 1680000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.05,
+        "color": "Orange / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X8",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 1780000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.053,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1260000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.037,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1170000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 13020000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": 0.049,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 2180000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.032,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP PD20 Eco Mini",
+        "price": 3930000,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 4000,
+        "price_per_gb": 0.059,
+        "color": "White / Green",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar ARMOR 700",
+        "price": 1590000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.095,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": 0.215,
+        "color": "Pink",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 3930000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.235,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk Extreme Portable V2",
+        "price": 1510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.18,
+        "color": "Black / Orange",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 1660000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.099,
+        "color": "Blue / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Transcend StoreJet",
+        "price": 1590000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.047,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus Slim",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "SanDisk SDSSDT40-4T00-NA25",
+        "price": 4850000,
+        "type": "Desktop",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": 0.072,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 11120000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 10000,
+        "price_per_gb": 0.067,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 11120000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 10000,
+        "price_per_gb": 0.067,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 5490000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.082,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Hub",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 14000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0, USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Verbatim 99399",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate Backup Plus Hub",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 10000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Toshiba Canvio Desk",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buslink CRF-2T-U2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 3050000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.091,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Hitachi HGST Touro Desk Pro",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": 2850000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": 0.057,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": null,
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie 4big Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": 4080000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.049,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book Thunderbolt Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book Studio",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 2.0",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Axis Velocity",
+        "price": 1840000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Integral SlimXpress Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Silver / Black"
+    },
+    {
+        "name": "Lexar ARMOR 700",
+        "price": 2670000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.08,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP T-Create CinemaPr P31",
+        "price": 5690000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.085,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar SL500",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket XTRM-Q",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket Nano Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "SanDisk Professional PRO-Blade Transport",
+        "price": 5690000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.085,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 3750000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.112,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress",
+        "price": 6420000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.384,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress",
+        "price": 2290000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": 0.535,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 6790000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.406,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 6560000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.098,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Verbatim Vx460",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Passport For Mac",
+        "price": 2140000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.128,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 4830000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.144,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Red"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 2010000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.06,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 2930000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.087,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T5 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Red"
+    },
+    {
+        "name": "Samsung T5 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Red"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "SanDisk G-DRIVE ArmorLock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black / Yellow"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 4500000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.134,
+        "color": "Red / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "ADATA SD700",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung T1",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend StoreJet",
+        "price": 1090000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.065,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Slim II",
+        "price": 1760000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.105,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Slim II",
+        "price": 1740000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.104,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend StoreJet",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA AHV620-2TU3-CBK",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA CH11",
+        "price": 1100000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.131,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Slim",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "TEAMGROUP M200",
+        "price": 2010000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.06,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 3360000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.05,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP M200",
+        "price": 1170000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 500,
+        "price_per_gb": 0.14,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar SL210",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "TEAMGROUP M200",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar Professional SL600",
+        "price": 1430000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.085,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 13360000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": 0.05,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP M200",
+        "price": 5350000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar SL500",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL660 BLAZE",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket Nano Rugged",
+        "price": 1680000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.1,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk Professional PRO-Blade Transport",
+        "price": 2760000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.165,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power Bolt B75 Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": 5130000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.153,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Kingston XS2000",
+        "price": 2680000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.08,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X10 Pro",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.11,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "KIOXIA EXCERIA PLUS",
+        "price": 2090000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": 0.249,
+        "color": "Gray",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X8",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 3500000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.052,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T3 Portable",
+        "price": 3000000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.179,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 2340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.28,
+        "color": "Blue / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "ADATA SD700",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SD700",
+        "price": 2910000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": 0.679,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk Extreme 900",
+        "price": 2520000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 960,
+        "price_per_gb": 0.157,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 19710000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 20000,
+        "price_per_gb": 0.059,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 18040000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 18000,
+        "price_per_gb": 0.06,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 12580000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": 0.063,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 10180000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.076,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 7390000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": 0.074,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": 5330000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 13110000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": 0.065,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 10520000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.079,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 7900000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": 0.079,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock DT FIPS",
+        "price": 3310000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.099,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Koss Kanguru Ultra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-C",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 14000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": 3980000,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0, USB Type-A 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": null,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Western Digital easystore",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 14000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 10000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Book Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "G-Technology G-DRIVE",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, eSATA 6.0 Gb/s, USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "G-Technology G-DRIVE",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, eSATA 6.0 Gb/s, USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Edge Tech EDGDG-236236-PE",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buslink CipherShield",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": 4180000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.05,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Expansion",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Desk",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend StoreJet 35T3",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend StoreJet 35T3",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Imation Apollo Pro UX",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buslink CSC-2T-U3",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buslink CSC-1T-U2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom USB3HD35S500-AX",
+        "price": null,
+        "type": "Desktop",
+        "interface": null,
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom USB3HD35S3TB-AX",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom USB3HD35S2TB-AX",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom USB3HD35S250-AX",
+        "price": null,
+        "type": "Desktop",
+        "interface": null,
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom USB3HD35S1TB-AX",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Hitachi HGST Touro Desk",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": 4020000,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.048,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate FreeAgent GoFlex Desk",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung D3 Station",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2 Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, eSATA 3.0 Gb/s, USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie 2big",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt",
+        "capacity": 10000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Minimus",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie 5big",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt",
+        "capacity": 25000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie 2big Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie 4big Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 12000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Little Big Disk",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie 4big Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie 2big Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book for Mac",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book for Mac",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Book Studio",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Blade Runner",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Minimus",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie d2 Quadra",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394B 9-Pin, eSATA 3.0 Gb/s, USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation",
+        "price": null,
+        "type": "Desktop",
+        "interface": "Thunderbolt",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 6000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Duo",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Axis Velocity",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Axis Velocity",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Combo 4",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394A 6-Pin, IEEE 1394B 9-Pin, eSATA 3.0 Gb/s, USB Type-A 2.0",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation",
+        "price": null,
+        "type": "Desktop",
+        "interface": "IEEE 1394A 6-Pin, IEEE 1394B 9-Pin, eSATA 3.0 Gb/s, USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology DriveStation Axis",
+        "price": null,
+        "type": "Desktop",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Integral SlimXpress",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Integral SlimXpress",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Integral SlimXpress",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Integral SlimXpress",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Integral SlimXpress Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver / Black"
+    },
+    {
+        "name": "Integral SlimXpress Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Silver / Black"
+    },
+    {
+        "name": "Integral SlimXpress Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Silver / Black"
+    },
+    {
+        "name": "Lexar ARMOR 700",
+        "price": 2600000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.077,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP M200",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "TEAMGROUP T-Create CinemaPr P31",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Gray"
+    },
+    {
+        "name": "TEAMGROUP T-Create CinemaPr P31",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Gray"
+    },
+    {
+        "name": "TEAMGROUP T-Create CinemaPr P31",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Gray"
+    },
+    {
+        "name": "TEAMGROUP T-Create CinemaPr P31",
+        "price": 2140000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.128,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "TEAMGROUP T-Create CinemaPr P31",
+        "price": 3380000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.101,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar SL500",
+        "price": 3020000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 512,
+        "price_per_gb": 0.352,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar SL500",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar Professional SL600",
+        "price": 3360000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 512,
+        "price_per_gb": 0.392,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar Professional SL600",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.075,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Lexar SL210",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL210",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL200",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL200",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL200",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL100 Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL100 Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Lexar SL660 BLAZE",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "TEAMGROUP PD20M Mag",
+        "price": 2290000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.068,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket nano XTRM",
+        "price": 2790000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.167,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Sabrent Rocket Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Sabrent Rocket Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Sabrent Rocket Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Sabrent Rocket Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Sabrent Rocket XTRM-Q",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket XTRM-Q",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket XTRM-Q",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket Nano Rugged",
+        "price": 2310000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": 0.269,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 4180000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.125,
+        "color": "Pink",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 2930000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.088,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Gold"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 3850000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.115,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.15,
+        "color": "Pink",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.15,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.15,
+        "color": "Gold",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 1840000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": 0.215,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 1310000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": 0.153,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 1680000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": 0.195,
+        "color": "Gold",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket Nano",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 512,
+        "price_per_gb": 0.156,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "SanDisk Professional PRO-Blade Transport",
+        "price": 3850000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.115,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock SSD",
+        "price": 17520000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.262,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock SSD",
+        "price": 10000000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.299,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock SSD",
+        "price": 7330000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.439,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 44500000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 8000,
+        "price_per_gb": 0.333,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 21190000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.317,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 12120000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.362,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 4470000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": 0.522,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 2980000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": 0.695,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 3350000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.2,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 16000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apricorn Aegis Fortress",
+        "price": 20890000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.312,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress",
+        "price": 12860000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.385,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn NVX",
+        "price": 8450000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.505,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn NVX",
+        "price": 5010000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": 0.599,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 11190000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.335,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 7120000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.085,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 4900000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.146,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 4180000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.25,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Fortress L3",
+        "price": 3820000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.456,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "VisionTek 901378",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 8000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "VisionTek 901377",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "VisionTek 901196",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "VisionTek 901195",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power Stream S05",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power Stream S05",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power Stream S05",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power Stream S05",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 120,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 240,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 480,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": 4220000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 960,
+        "price_per_gb": 0.263,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power Bolt B75",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 240,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 480,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": 2040000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 960,
+        "price_per_gb": 0.127,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Silicon Power PC60",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1920,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Sabrent Rocket Nano V2",
+        "price": 2010000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 1000,
+        "price_per_gb": 0.12,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano V2",
+        "price": 3350000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 2000,
+        "price_per_gb": 0.1,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Sabrent Rocket Nano V2",
+        "price": 7530000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2x2",
+        "capacity": 4000,
+        "price_per_gb": 0.112,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Connect II",
+        "price": 1830000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.109,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Barracuda Fast",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Verbatim Vx460",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Crucial X8",
+        "price": 3830000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.114,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Crucial X6",
+        "price": 3510000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": 0.052,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Gray"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 3500000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": 0.042,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Gray"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Red"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 2160000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": 0.032,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 2110000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.063,
+        "color": "Gray",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Gray"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 1690000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.101,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 1330000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 1510000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.09,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 1910000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": 0.114,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 2680000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.08,
+        "color": "Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate One Touch",
+        "price": 5440000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2, USB Type-C 3.2 Gen 2",
+        "capacity": 2000,
+        "price_per_gb": 0.163,
+        "color": "Blue",
+        "currency": "IDR"
+    },
+    {
+        "name": "Samsung T3 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung T3 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung T3 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung T5 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Gold"
+    },
+    {
+        "name": "Samsung T5 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Gold"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 2",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Passport Ultra",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 3000,
+        "price_per_gb": null,
+        "color": "White"
+    },
+    {
+        "name": "SanDisk G-DRIVE ArmorLock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black / Yellow"
+    },
+    {
+        "name": "SanDisk G-DRIVE ArmorLock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black / Yellow"
+    },
+    {
+        "name": "Sabrent ROCKET XTRM",
+        "price": null,
+        "type": "Portable",
+        "interface": "Thunderbolt",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Apacer AS721",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apacer AS721",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apacer AS721",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apacer AS722",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apacer AS722",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": 1170000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "color": "Red",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Samsung T7 Portable",
+        "price": 2260000,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.27,
+        "color": "Red / Silver",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital G-DRIVE Mobile",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Western Digital G-DRIVE Mobile",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Western Digital G-DRIVE Mobile",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Western Digital G-DRIVE ev RaW",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0, USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Western Digital G-DRIVE Mobile",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0, USB Type-C 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Seagate Backup Plus Ultra Touch",
+        "price": 2510000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.075,
+        "color": "White",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Ultra Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate Backup Plus Ultra Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "White"
+    },
+    {
+        "name": "Seagate Backup Plus Ultra Touch",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Buslink DL-4TSDU31G2",
+        "price": 8360000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 4000,
+        "price_per_gb": 0.125,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Blue / White"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 4000,
+        "price_per_gb": null,
+        "color": "Blue / White"
+    },
+    {
+        "name": "Apricorn Aegis Fortress",
+        "price": 4930000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": 0.576,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock DT",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 14000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Buffalo Technology Americas MiniStation",
+        "price": 1120000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Buffalo Technology Americas MiniStation",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Apricorn Aegis Padlock Fortress",
+        "price": 4390000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": 0.131,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Seagate Backup Plus Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": "Silver"
+    },
+    {
+        "name": "Samsung T5",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": "Blue"
+    },
+    {
+        "name": "Freecom Mobile Drive Classic 3.0",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": "Black"
+    },
+    {
+        "name": "ADATA SE730",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-C 3.2 Gen 1",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SD700",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SD700",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SD600",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SD600",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SD600",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SD600",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate STDR5000100",
+        "price": null,
+        "type": "Portable",
+        "interface": null,
+        "capacity": 5000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "SanDisk Extreme 900",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 480,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "SanDisk Extreme 900",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 2",
+        "capacity": 1920,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Padlock SSD",
+        "price": 4590000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 480,
+        "price_per_gb": 0.572,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Padlock SSD",
+        "price": 3270000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 240,
+        "price_per_gb": 0.815,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Western Digital My Passport",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital WDBGPU0010BBK-NESN",
+        "price": 2010000,
+        "type": "Portable",
+        "interface": null,
+        "capacity": 1000,
+        "price_per_gb": 0.12,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Transcend StoreJet",
+        "price": 1360000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.081,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Transcend TS128GSJC10K",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend TS128GESD200K",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Lenovo ThinkPad",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Lenovo ThinkPad",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Lenovo ThinkPad",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Slim II",
+        "price": 1780000,
+        "type": "Portable",
+        "interface": null,
+        "capacity": 1000,
+        "price_per_gb": 0.106,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Toshiba Canvio Connect",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Imation Apollo Expert",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend StoreJet",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend StoreJet",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Transcend StoreJet",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 320,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 750,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 320,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Axiom Mobile-D",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": "eSATA 3.0 Gb/s, USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": null,
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0",
+        "capacity": 320,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Portable 3.0",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Portable 3.0",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": 8240000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": 3.852,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock Fortress",
+        "price": 2820000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.337,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock 3.0",
+        "price": 2580000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": 0.308,
+        "color": "Black",
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock Fortress",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock Fortress",
+        "price": 3730000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.223,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Padlock",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Bio 3.0",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Apricorn Aegis Bio",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA SH14",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA DashDrive SE720",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA AHV620-500GU3-CBK",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA DashDrive Durable HD650",
+        "price": 1210000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.072,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "HP HPHDD2E30500AS1-RBU",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Hitachi HGST Touro Mobile Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Hitachi HGST Touro Mobile",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Hitachi HGST Touro Mobile",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Hitachi GST Touro Mobile Pro",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus Slim",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": 1880000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.112,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "Seagate Backup Plus Slim",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate Backup Plus",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Seagate GoFlex for Mac",
+        "price": null,
+        "type": "Portable",
+        "interface": "Thunderbolt",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung MU-PS500B/AM",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung MU-PS250B/AM",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung P3 Portable",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung P3",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Samsung P3",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Verbatim 97806",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Verbatim 97805",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Verbatim Freecom",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Verbatim Freecom",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Verbatim Titan XS",
+        "price": null,
+        "type": "Portable",
+        "interface": null,
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Verbatim Store 'n' Go",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 256,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Verbatim Store 'n' Go",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 128,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Portable",
+        "interface": null,
+        "capacity": 250,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 120,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Little Big Disk",
+        "price": null,
+        "type": "Portable",
+        "interface": "Thunderbolt",
+        "capacity": 512,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "Thunderbolt, USB Type-A 3.2 Gen 1",
+        "capacity": 120,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged Mini",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Passport Air",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital ELEMENTS",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Passport Studio",
+        "price": null,
+        "type": "Portable",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 2.0",
+        "capacity": 2000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Passport Slim",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Passport Studio",
+        "price": null,
+        "type": "Portable",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 2.0",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Western Digital My Passport Air",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Porsche Design",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged",
+        "price": null,
+        "type": "Portable",
+        "interface": "IEEE 1394B 9-Pin, USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rikiki",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged Mini",
+        "price": 1340000,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "color": null,
+        "currency": "IDR"
+    },
+    {
+        "name": "LaCie Rugged Mini",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "LaCie Rugged Mini",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation Extreme",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation Extreme",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation Extreme",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation Extreme",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation Extreme",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation Extreme",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 500,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "Buffalo Technology MiniStation",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    },
+    {
+        "name": "ADATA DashDrive",
+        "price": null,
+        "type": "Portable",
+        "interface": "USB Type-A 3.2 Gen 1",
+        "capacity": 1000,
+        "price_per_gb": null,
+        "color": null
+    }
+]

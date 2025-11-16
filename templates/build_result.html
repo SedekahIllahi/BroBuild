@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Build is Ready!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        
+        {% if build %}
+            <h1>Here's Your Build! 🚀</h1>
+            <div class="build">
+                
+                {% for part_type, part in build.parts.items() %}
+                    {% if part %}
+                        {% set item = part %}
+                        <div class="build-item">
+                            <strong>{{ part_type.upper() }}</strong>
+                            <span>
+                                {% set name = item.name %}
+                                {% if part_type == 'gpu' %}
+                                    {% set chipset = item.get('chipset', '') %}
+                                    {% set vram = item.get('Memory - Memory Size') %}
+                                    
+                                    {% if chipset and chipset not in name %}
+                                        {% set name = name + ' (' + chipset + ')' %}
+                                    {% endif %}
+                                    {% if vram and vram|string not in name %}
+                                        {% set name = name + ' - ' + vram|string + ' GB' %}
+                                    {% endif %}
+                                {% endif %}
+                                
+                                {{ name }}
+                                <strong>Rp {{ item.price|commas }}</strong>
+                            </span>
+                        </div>
+                    {% else %}
+                        <div class="build-item">
+                            <strong>{{ part_type.upper() }}</strong>
+                            <span>---</span>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                
+                <div class="build-total">
+                    <span>TOTAL</span>
+                    <span>Rp {{ build.get_total_price()|commas }}</span>
+                </div>
+            </div>
+
+        {% else %}
+            <h1>Auto-Build FAILED 😥</h1>
+        {% endif %}
+
+        {% if warnings %}
+            <div class="warnings">
+                <h3>⚠️ Build Warnings:</h3>
+                <ul>
+                    {% for w in warnings %}
+                        <li>{{ w }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endif %}
+
+        <br>
+        <a href="/" class="manual-link" style="font-size: 1rem;">Go Back and Build Another</a>
+    </div>
+
+</body>
+</html>
